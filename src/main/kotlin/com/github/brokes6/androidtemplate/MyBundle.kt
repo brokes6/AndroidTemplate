@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template
+package com.github.brokes6.androidtemplate
 
 import com.intellij.DynamicBundle
 import org.jetbrains.annotations.NonNls
